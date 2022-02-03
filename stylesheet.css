@@ -1,0 +1,60 @@
+body{
+    margin:0;
+}
+p{
+    display: contents;
+    font-size: 10.5px;
+    
+}
+h2{
+    text-align: center;
+    margin:4%;
+    color:white;
+}
+strong{
+    margin-bottom:3%
+}
+span{
+    margin-top:3%
+}
+table{
+    opacity: 87%;
+}
+.bla{
+    background-image: url(first.jpeg);
+    background-size:cover;
+    background-attachment:fixed;
+}
+.background{
+    display:grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    justify-items: center;
+}
+th{
+    background-color:darkred;
+    color:white;
+}
+td{
+    padding-left: 5px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    background-color: white;
+}
+.Drinks{
+    text-align: center;
+    width:45%;
+    text-align: center;
+    position: relative;
+    top:-7%;
+    width:50%;
+}
+.beef{
+    position: relative;
+    top:-4.2%;
+}
+.side{
+    position: relative;
+    top:5%;
+}
